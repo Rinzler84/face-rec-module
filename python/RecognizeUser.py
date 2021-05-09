@@ -25,6 +25,7 @@ def get_fingerprint():
         return False
     
     return True
+################################################################################
 
 # Create a reference to the camera
 camera = picamera.PiCamera()
